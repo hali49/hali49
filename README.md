@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hali49
+- 👋 Hi, My name is Haider
 - 👀 I’m interested in Machine learning, quant computing, data science and cyber security.
 - 🌱 I’m currently learning functional programming, building secured computer systems 
 - 💞️ - looking forward to collaborate on technical management of projects, building secured computer systems, use functional programming for trading algorithms
